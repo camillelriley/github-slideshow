@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Try to be a rainbow in someone's cloud!
 Use the left arrow to go back!
